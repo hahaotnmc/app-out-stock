@@ -1,0 +1,6 @@
+.alink:hover{
+    text-decoration: underline;
+}
+.alink{
+    color: var(--p-color-text)
+}
